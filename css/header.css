@@ -1,7 +1,14 @@
 .nav{
 	font-size: 1.8rem;
-	
+	list-style: none;
 }
+
+.nav-item{
+	display: block;
+	padding: 30px 10px;
+	color: #35324a;
+}
+
 .logo{
 	width: 50%;
 }
