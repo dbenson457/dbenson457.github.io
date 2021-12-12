@@ -9,6 +9,10 @@
 	color: #35324a;
 }
 
+a.nav-item:hover{
+	background-color: #897c2c;
+}
+
 .logo{
 	width: 50%;
 }
